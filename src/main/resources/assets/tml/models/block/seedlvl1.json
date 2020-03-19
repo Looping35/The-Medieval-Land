@@ -1,7 +1,12 @@
 {
-  "parent": "block/cross",
+  "parent": "block/cube",
   "textures": {
-    "cross": "tml:blocks/seednv1",
+    "down": "tml:blocks/seednv1",
+    "up": "tml:blocks/seednv1",
+    "north": "tml:blocks/seednv1",
+    "east": "tml:blocks/seednv1",
+    "south": "tml:blocks/seednv1",
+    "west": "tml:blocks/seednv1",
     "particle": "tml:blocks/seednv1"
   }
 }
