@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tml:blocks/seednv1",
+    "particle": "tml:blocks/seednv1"
+  }
+}
