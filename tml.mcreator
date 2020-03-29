@@ -418,17 +418,6 @@
       "ids": {}
     },
     {
-      "name": "PeasantEntityIsHurt",
-      "type": "procedure",
-      "sortid": 29,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": []
-      }
-    },
-    {
       "name": "Peasant",
       "type": "mob",
       "sortid": 29,
