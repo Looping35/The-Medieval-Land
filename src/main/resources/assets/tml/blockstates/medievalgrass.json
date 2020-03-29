@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tml:block/medievalgrass"
+    },
+    "facing=east": {
+      "model": "tml:block/medievalgrass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tml:block/medievalgrass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tml:block/medievalgrass",
+      "y": 270
+    }
+  }
+}

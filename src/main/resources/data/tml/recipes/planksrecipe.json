@@ -1,0 +1,13 @@
+{
+  "group": "tml",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tml:compactlog"
+    }
+  ],
+  "result": {
+    "item": "tml:strangeplanks",
+    "count": 16
+  }
+}

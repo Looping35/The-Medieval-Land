@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "crop": "seednv1"
+      },
+      "name": "default"
+    }
+  }
+}

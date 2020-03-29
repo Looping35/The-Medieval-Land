@@ -1,0 +1,68 @@
+{
+  "_fv": 5,
+  "_type": "biome",
+  "definition": {
+    "name": "Medieval Plain",
+    "groundBlock": {
+      "value": "CUSTOM:MedievalGrass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:MedievalDirt"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeStem": {
+      "value": "CUSTOM:StrangeLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:MedievalLeaves"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -4867900,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -15717115,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16311293,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 2,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 2,
+    "bigMushroomsChunk": 1,
+    "sandPathcesPerChunk": 1,
+    "gravelPatchesPerChunk": 1,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 5,
+    "rainingPossibility": 0.0,
+    "temperature": 0.6,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "PLAINS",
+    "parent": {
+      "value": "plains"
+    },
+    "biomeDictionaryTypes": [
+      "PLAINS"
+    ],
+    "spawnList": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tml:blocks/compactwoodtop",
+    "up": "tml:blocks/compactwoodtop",
+    "north": "tml:blocks/compactwoodside",
+    "east": "tml:blocks/compactwoodside",
+    "south": "tml:blocks/compactwoodside",
+    "west": "tml:blocks/compactwoodside",
+    "particle": "tml:blocks/compactwoodtop"
+  }
+}

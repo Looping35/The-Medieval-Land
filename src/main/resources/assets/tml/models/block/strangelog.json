@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tml:blocks/topstrangewoodlog",
+    "up": "tml:blocks/topstrangewoodlog",
+    "north": "tml:blocks/strangelog",
+    "east": "tml:blocks/strangelog",
+    "south": "tml:blocks/strangelog",
+    "west": "tml:blocks/strangelog",
+    "particle": "tml:blocks/topstrangewoodlog"
+  }
+}

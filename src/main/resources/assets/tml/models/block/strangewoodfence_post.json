@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "tml:blocks/truestrangewoodplank",
+    "particle": "tml:blocks/truestrangewoodplank"
+  }
+}

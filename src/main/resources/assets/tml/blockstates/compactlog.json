@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "tml:block/compactlog"
+    },
+    "facing=north": {
+      "model": "tml:block/compactlog"
+    },
+    "facing=east": {
+      "model": "tml:block/compactlog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "tml:block/compactlog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "tml:block/compactlog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "tml:block/compactlog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "tml:blocks/strangeplanks",
+    "top": "tml:blocks/strangeplanks",
+    "side": "tml:blocks/strangeplanks"
+  }
+}

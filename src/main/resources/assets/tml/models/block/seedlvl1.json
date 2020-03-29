@@ -1,7 +1,8 @@
 {
-  "parent": "block/cross",
+  "parent": "tml:custom/crop_block_stage_0",
   "textures": {
-    "cross": "tml:blocks/seednv1",
-    "particle": "tml:blocks/seednv1"
+    "all": "tml:blocks/seednv1",
+    "particle": "tml:blocks/seednv1",
+    "crop": "tml:blocks/seednv1"
   }
 }

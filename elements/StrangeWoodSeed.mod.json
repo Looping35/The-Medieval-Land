@@ -19,7 +19,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Can grow... wood ???"
+      "Can grows into... wood ???"
     ],
     "hasGlow": false,
     "onRightClickedOnBlock": {
