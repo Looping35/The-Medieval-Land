@@ -1,0 +1,13 @@
+{
+  "group": "tml",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tml:strangelog"
+    }
+  ],
+  "result": {
+    "item": "tml:strangewoodplank",
+    "count": 4
+  }
+}

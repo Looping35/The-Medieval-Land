@@ -1,6 +1,25 @@
 {
   "item.tml.tmltab": "Strange Drawing",
+  "block.tml.strangewoodfence": "Strange Fence",
+  "item.tml.themedievalland": "Holy Torch",
+  "block.tml.strangewoodplank": "Strange Plank",
+  "block.tml.medievalgrass": "Medieval Grass",
+  "block.tml.compactlog": "Compact Log",
+  "block.tml.strangeplanks": "Compact Wood Plank",
+  "block.tml.seedlvl5": "Seedlvl5",
+  "biome.tml.medievalplain": "Medieval Plain",
+  "block.tml.strangestairs": "Compact Wood Stair",
+  "entity.tml.peasant": "Peasant",
+  "block.tml.medievalleaves": "Medieval Leaves",
+  "block.tml.strangefence": "Compact Wood Fence",
   "item.tml.strangewoodseed": "Strange Wood Seed",
+  "block.tml.seedlvl3": "Seedlvl3",
+  "block.tml.strangelog": "Strange Log",
+  "block.tml.seedlvl4": "Seedlvl4",
   "block.tml.seedlvl1": "Strange Seed Level 1",
-  "itemGroup.tabthemedievallandtab": "The Medieval Land"
+  "itemGroup.tabthemedievallandtab": "The Medieval Land",
+  "block.tml.seedlvl2": "Seedlvl2",
+  "block.tml.strangewoodstair": "Strange Stair",
+  "block.tml.medievaldirt": "Medieval Dirt",
+  "item.tml.peasant": "Peasant Spawn Egg"
 }

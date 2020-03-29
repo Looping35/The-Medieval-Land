@@ -1,0 +1,33 @@
+{
+  "group": "tml",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tml:strangewoodplank"
+    },
+    "3": {
+      "item": "tml:strangewoodplank"
+    },
+    "4": {
+      "item": "tml:strangewoodplank"
+    },
+    "6": {
+      "item": "tml:strangewoodplank"
+    },
+    "7": {
+      "item": "tml:strangewoodplank"
+    },
+    "8": {
+      "item": "tml:strangewoodplank"
+    }
+  },
+  "result": {
+    "item": "tml:strangewoodstair",
+    "count": 8
+  }
+}

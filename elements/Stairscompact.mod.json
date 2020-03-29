@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:StrangeStairs"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:StrangePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrangePlanks"
+      },
+      {
+        "value": "CUSTOM:StrangePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrangePlanks"
+      },
+      {
+        "value": "CUSTOM:StrangePlanks"
+      },
+      {
+        "value": "CUSTOM:StrangePlanks"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "stairscompact",
+    "namespace": "mod"
+  }
+}

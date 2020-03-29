@@ -1,0 +1,42 @@
+{
+  "group": "tml",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tml:compactlog"
+    },
+    "1": {
+      "item": "minecraft:melon_seeds"
+    },
+    "2": {
+      "item": "tml:compactlog"
+    },
+    "3": {
+      "item": "minecraft:beetroot_seeds"
+    },
+    "4": {
+      "item": "tml:compactlog"
+    },
+    "5": {
+      "item": "minecraft:pumpkin_seeds"
+    },
+    "6": {
+      "item": "tml:compactlog"
+    },
+    "7": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "8": {
+      "item": "tml:compactlog"
+    }
+  },
+  "result": {
+    "item": "tml:strangewoodseed",
+    "count": 2
+  }
+}

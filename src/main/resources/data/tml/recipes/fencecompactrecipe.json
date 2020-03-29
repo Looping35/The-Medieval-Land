@@ -1,0 +1,32 @@
+{
+  "group": "tml",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "tml:strangeplanks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "tml:strangeplanks"
+    },
+    "3": {
+      "item": "tml:strangeplanks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "tml:strangeplanks"
+    }
+  },
+  "result": {
+    "item": "tml:strangefence",
+    "count": 6
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "tml:block/themedievalland_portal_ew"
+    },
+    "axis=x": {
+      "model": "tml:block/themedievalland_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:TheMedievalLand"
+    },
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.FLINT_AND_STEEL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrangeLog"
+      },
+      {
+        "value": "CUSTOM:StrangeWoodSeed"
+      },
+      {
+        "value": "CUSTOM:StrangeLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrangeLog"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "holytorchrecipe",
+    "namespace": "mod"
+  }
+}

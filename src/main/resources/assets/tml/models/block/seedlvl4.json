@@ -1,0 +1,8 @@
+{
+  "parent": "tml:custom/crop_block_stage_3",
+  "textures": {
+    "all": "tml:blocks/seednv4",
+    "particle": "tml:blocks/seednv4",
+    "crop": "tml:blocks/seednv4"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_fv": 5,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:StrangeLog"
+    },
+    "portalParticles": {
+      "value": "CRIT"
+    },
+    "portalLuminance": 0.2,
+    "portalSound": {
+      "value": "block.wood.break"
+    },
+    "igniterName": "Holy Torch",
+    "igniterTab": {
+      "value": "CUSTOM:TheMedievalLandTAB"
+    },
+    "texture": "portalignitier",
+    "portalTexture": "medievalleaves",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:MedievalPlain"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:MedievalGrass"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:MedievalDirt"
+    },
+    "tertiaryFillerBlock": {
+      "value": ""
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "airColor": {
+      "value": -7432281,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "hasWeather": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": true,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

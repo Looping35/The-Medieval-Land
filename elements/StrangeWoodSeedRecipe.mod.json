@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:StrangeWoodSeed"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CompactLog"
+      },
+      {
+        "value": "Items.MELON_SEEDS"
+      },
+      {
+        "value": "CUSTOM:CompactLog"
+      },
+      {
+        "value": "Items.BEETROOT_SEEDS"
+      },
+      {
+        "value": "CUSTOM:CompactLog"
+      },
+      {
+        "value": "Items.PUMPKIN_SEEDS"
+      },
+      {
+        "value": "CUSTOM:CompactLog"
+      },
+      {
+        "value": "Items.WHEAT_SEEDS"
+      },
+      {
+        "value": "CUSTOM:CompactLog"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "strangewoodseedrecipe",
+    "namespace": "mod"
+  }
+}

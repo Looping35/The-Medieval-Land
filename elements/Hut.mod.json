@@ -1,0 +1,22 @@
+{
+  "_fv": 5,
+  "_type": "structure",
+  "definition": {
+    "structure": "hut",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 2500,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -2,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:TheMedievalLand"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:MedievalPlain"
+      }
+    ]
+  }
+}
